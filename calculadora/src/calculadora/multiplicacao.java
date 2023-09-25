@@ -6,6 +6,6 @@ public class multiplicacao {
 		    int mult = a1 * a2;
 		    return mult;
 		    
-		    }
+	 }
 
 }
