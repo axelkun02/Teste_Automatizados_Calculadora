@@ -30,7 +30,7 @@ public class subtracao {
     return sub; // retorno da subtracao
    
     
-    }
+     }
 
 }
 
@@ -58,7 +58,8 @@ public class soma {
 	    int soma = a1 + a2;
 	    return soma; // retorno da soma
 	    
-	    }
+	 }
+
 }
 
 ```
@@ -81,10 +82,10 @@ public class soma {
 public class multiplicacao {
 	
 	 public int multiplicar (int a1, int a2){
-		    int mult = a1 * a2;
-		    return mult; // retorno da  multiplicação
+	 int mult = a1 * a2;
+	 return mult; // retorno da  multiplicação
 		    
-		    }
+	 }
 
 }
 
@@ -108,10 +109,10 @@ public class multiplicacao {
 
 public class divisao {
 	 public int dividir (int a1, int a2){
-		    int div = a1 / a2;
-		    return div; // retorno da divisao
+	 int div = a1 / a2;
+	 return div; // retorno da divisao
 		    
-		    }
+	 }
 
 }
 
