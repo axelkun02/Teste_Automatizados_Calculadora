@@ -40,7 +40,7 @@ public class subtracao {
 ```
 
 /**
- * *@author Axel Alves
+*@author Axel Alves
 *@version 1.02
 *@since 1.00
 *
